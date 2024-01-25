@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import {BsSearch} from 'react-icons/bs'
 import AdminSidebar from '../components/AdminSidebar'
 import { FaRegBell } from 'react-icons/fa'
